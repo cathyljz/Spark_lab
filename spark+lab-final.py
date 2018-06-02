@@ -3,8 +3,6 @@
 
 # # CS5344: Spark lab 
 
-# Author: Li Jiazhe (A0176576M)
-
 # ## Stage 1
 
 # • Input: a set of files under a directory
